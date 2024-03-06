@@ -1,0 +1,20 @@
+{
+    "name":"Pizza Party",
+    "short_name":"Pizza Party",
+    "start_url": ".",
+    "background_color":"cyan",
+    "theme_color":"red",
+    "display":"standalone",
+    "icons":[
+        {
+            "src":"images/j1.png",
+            "sizes":"192x192",
+            "type":"image/png"
+        },
+        {
+            "src":"images/j2.png",
+            "sizes":"512x512",
+            "type":"image/png"
+        }
+    ]
+}
